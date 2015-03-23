@@ -2,5 +2,5 @@
 
 * [Introduction](introduction.md)
 * [Experience](experience.md)
-* Projects
+* [Projects](projects.md)
 
