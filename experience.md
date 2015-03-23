@@ -1,4 +1,3 @@
-
 ## Experience
 
 ### Paradigma Cero (2011 - 2015)
@@ -47,3 +46,12 @@ Med School (unfinished) at Universidad Autónoma del Estado de México (2005 - 2
 - **[Getting Started with Ruby on Rails][15]**
 - **[McCullough and Berglund on Mastering Git][16]**
 
+[13]:https://www.open2study.com/courses/user-experience-for-the-web
+[14]:https://www.codeschool.com/courses/shaping-up-with-angular-js
+[15]:https://www.udemy.com/getting-started-with-ruby-on-rails/?dtcode=RHdBJKo2C13W
+[16]:https://www.safaribooksonline.com/library/view/mccullough-and-berglund/9781449304737/
+[17]:http://rivieramx.com.mx/
+[18]:http://academy.hubspot.com/
+[19]:http://moz.com/academy
+[20]:http://simplotmexico.com/
+[21]:http://www.balper.com.mx/
