@@ -46,6 +46,7 @@ Med School (unfinished) at Universidad Autónoma del Estado de México (2005 - 2
 - **[Getting Started with Ruby on Rails][15]**
 - **[McCullough and Berglund on Mastering Git][16]**
 
+[12]:http://openatrium.com/
 [13]:https://www.open2study.com/courses/user-experience-for-the-web
 [14]:https://www.codeschool.com/courses/shaping-up-with-angular-js
 [15]:https://www.udemy.com/getting-started-with-ruby-on-rails/?dtcode=RHdBJKo2C13W
