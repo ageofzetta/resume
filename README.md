@@ -1,2 +1,6 @@
-# resume
-My Resume
+# Alejandro Tapia Bueno
+
+##Education
+
+##Experience
+
