@@ -3,7 +3,7 @@
 **Mobile:** (55) 6243 5831  
 **Email:**	[alejandro_tapia@outlook.com](alejandro_tapia@outlook.com)
 
-Use <kbd>Cmd</kbd> + Left Click from Mac or Use <kbd>Ctrl</kbd> + Left Click if you0re using Windows
+Click using <kbd>Cmd</kbd> + Left Click if you're on a Mac or <kbd>Ctrl</kbd> + Left Click if you're using Windows
 ## Introduction
   
 I'm 27 years old and i'm a web developer.
